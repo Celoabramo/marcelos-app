@@ -1,0 +1,1 @@
+print("farm total de aura 6767")
